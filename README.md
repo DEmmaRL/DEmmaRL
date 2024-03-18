@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Diego</h1>
 <h3 align="center">A passionate fullstack developer from Mexico</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=demmarl&label=Profile%20views&color=0e75b6&style=flat" alt="demmarl" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=demmarl" alt="demmarl" /></a> </p>
 
 - 🌱 I’m currently learning **React and Competitive programming stuff**
@@ -29,3 +27,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=demmarl&show_icons=true&locale=en&layout=compact" alt="demmarl" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=demmarl&show_icons=true&locale=en" alt="demmarl" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=demmarl&" alt="demmarl" /></p>
