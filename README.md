@@ -29,3 +29,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=demmarl&show_icons=true&locale=en" alt="demmarl" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=demmarl&" alt="demmarl" /></p>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=demmarl&show_icons=true)
