@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=demmarl" alt="demmarl" /></a> </p>
 
-- 🌱 I’m currently learning **React and Competitive programming stuff**
+- 🌱 I’m currently learning **React Native and Competitive programming stuff**
 
-- 🤝 I’m looking for help with **Networikng and Competitive programming beginners**
+- 🤝 I’m looking for help with **Networikng and Competitive programming**
 
-- 💬 Ask me about **PHP, C++ and Competitive Programming**
+- 💬 Ask me about **Typescript, C++ and Competitive Programming**
 
 - 📫 How to reach me **diegoriverajobs@gmail.com**
 
