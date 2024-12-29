@@ -30,4 +30,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=demmarl&" alt="demmarl" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=demmarl&show_icons=true&locale=en&layout=compact" alt="demmarl" /></p>
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=demmarl)](https://github.com/anuraghazra/github-readme-stats)
