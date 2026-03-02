@@ -23,21 +23,23 @@ jobs:
           plugin_languages_details: percentage
           plugin_languages_limit: 10
           
-          # WakaTime Plugin
+          # Detailed WakaTime Plugin
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_wakatime_days: 7
-          plugin_wakatime_sections: languages, editors, os
+          plugin_wakatime_limit: 10
+          plugin_wakatime_sections: languages, editors, os, projects
+          plugin_wakatime_details: percentage, time
 
           # Achievements Plugin
           plugin_achievements: yes
           plugin_achievements_threshold: B
           plugin_achievements_display: compact
 
-          # Notable Contributions
+          # Notable Contributions (Includes Slidev and Open Source work)
           plugin_notable: yes
           plugin_notable_from: all
           plugin_notable_types: commit, pull_request
 
-          # Orden de las secciones
+          # Layout: Prioritizing engineering output
           config_order: languages, wakatime, notable, achievements
