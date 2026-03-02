@@ -1,4 +1,4 @@
-# Diego Rivera (demmarl)
+# DEmmaRL
 **Fullstack Engineer | Accessibility Advocate**
 
 Software Engineering student at CUCEI and Fullstack Engineer at Cignuz. My work focuses on building high-performance web applications that adhere strictly to the POUR principles of accessibility.
@@ -21,17 +21,17 @@ I prioritize digital accessibility and performance metrics. I am currently devel
 * **Open Source:** Contributor to Slidev (UX and presenter view enhancements).
 
 ## Tech Stack
-* **Languages:** TypeScript, JavaScript, C++, SQL.
+* **Languages:** TypeScript, JavaScript, C++, SQL, HTML, CSS.
 * **Frontend:** React, Next.js, Astro, Angular, Tailwind CSS.
 * **Backend and Tooling:** Node.js, Git, GitHub Actions, Vitest.
 
-## Coding Activity
-[![Diego's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=demmarl&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-## Beyond Engineering
-* Boxing and running training
-* Technical speaker regarding Big Tech career strategies & Good practices in programming for university students.
+## Engineering Metrics
+![Metrics](./github-metrics.svg)
 
 ---
 
-![Diego's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DEmmaRL&show_icons=true&theme=vision-friendly-dark)
+## Beyond Engineering
+* Boxing and strength training.
+* Technical speaker regarding Big Tech career strategies for university students.
