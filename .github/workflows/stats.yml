@@ -40,9 +40,9 @@ jobs:
           plugin_notable_from: all
           plugin_notable_types: commit, pull_request
 
-          plugin_pagespeed: yes
-          plugin_pagespeed_url: https://demmarl.dev
-          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
-          plugin_pagespeed_detailed: yes
+         # plugin_pagespeed: yes
+         # plugin_pagespeed_url: https://demmarl.dev
+         # plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
+         # plugin_pagespeed_detailed: yes
 
-          config_order: languages, wakatime, notable, achievements, pagespeed
+          config_order: languages, wakatime, notable, achievements
