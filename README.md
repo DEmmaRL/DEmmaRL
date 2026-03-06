@@ -7,7 +7,6 @@ Software Engineering student at CUCEI and Fullstack Engineer at Cignuz. My work 
 
 ---
 
-## Technical Profile
 I prioritize digital accessibility and performance metrics. I am currently developing a framework-agnostic NPM package to automate A11Y auditing within CI/CD pipelines.
 
 * **Accessibility:** Semantic HTML, W3C standards, and keyboard navigation optimization.
