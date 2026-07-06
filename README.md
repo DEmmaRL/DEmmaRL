@@ -7,7 +7,7 @@ Software Engineering student at CUCEI and Fullstack Engineer at Cignuz. My work 
 
 ---
 
-I prioritize digital accessibility and performance metrics. I am currently developing a framework-agnostic NPM package to automate A11Y auditing within CI/CD pipelines.
+I prioritize digital accessibility and performance metrics.
 
 * **Accessibility:** Semantic HTML, W3C standards, and keyboard navigation optimization.
 * **Performance:** Optimization for Core Web Vitals and Lighthouse 100/100 scores.
@@ -17,6 +17,7 @@ I prioritize digital accessibility and performance metrics. I am currently devel
 * **Google:** Software Student Training in Engineering Program (STEP) Intern, 2024.
 * **Competitive Programming:** 2x ICPC Mexico Regional Finalist.
 * **Mentorship:** Algorithmics instructor at OMIJAL and CUCEI.
+* **Leadership:** HackerRank Crew GDL Lead.
 * **Open Source:** Contributor to Slidev (UX and presenter view enhancements).
 
 ## Tech Stack
