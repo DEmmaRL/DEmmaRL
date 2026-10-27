@@ -1,9 +1,9 @@
 # DEmmaRL
-**Fullstack Engineer | Accessibility Advocate**
+**Fullstack Engineer | GitHub Campus Expert 🚩**
 
-Software Engineering student at CUCEI and Fullstack Engineer at Cignuz. My work focuses on building high-performance web applications that adhere strictly to the POUR principles of accessibility.
+Software Engineering student at CUCEI and Fullstack Engineer at Cignuz. My work focuses on building high-performance web applications.
 
-[Portfolio](https://demmarl.dev) | [LinkedIn](https://linkedin.com/in/demmarl) | [Technical Slides](https://slides.demmarl.dev)
+[Portfolio](https://atashi.dev) | [LinkedIn](https://linkedin.com/in/dev-rivera) | [Technical Slides](https://slides.demmarl.dev)
 
 ---
 
